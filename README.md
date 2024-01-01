@@ -1,2 +1,2 @@
 # PythonChees
-Chess in python
+Простая оболочка на PyQT для игры в шахматы с другим человеком.
